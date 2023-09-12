@@ -1,4 +1,4 @@
-# Predicting House Prices: A Machine Learning Project
+# Titanic Disaster: A Machine Learning Project
 
 > **Note:** All the commands are based on a Unix based system such as _OSX_.
 For a different system look for similar commands for it.
